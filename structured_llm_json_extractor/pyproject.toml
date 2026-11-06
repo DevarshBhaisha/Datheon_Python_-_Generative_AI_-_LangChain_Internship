@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "structured-llm-json-extractor"
+version = "1.0.0"
+description = "Gemini-powered structured extraction with Pydantic validation"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["google-genai>=1.0.0", "pydantic>=2.7.0", "python-dotenv>=1.0.1"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0.0", "ruff>=0.5.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

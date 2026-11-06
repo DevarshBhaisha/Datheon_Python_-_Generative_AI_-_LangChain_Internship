@@ -1,0 +1,12 @@
+NORTHSTAR OFFICE SUPPLIES
+Invoice Number: NS-2025-0148
+Invoice Date: 2025-03-10
+Due Date: 2025-03-24
+Bill To: Bluebird Design Studio
+Currency: USD
+A4 Copy Paper (box) | Qty 4 | Unit Price 18.50 | Amount 74.00
+Black Toner Cartridge | Qty 2 | Unit Price 42.00 | Amount 84.00
+Subtotal: 158.00
+Tax: 12.64
+Total Due: USD 170.64
+Payment terms: Net 14 days

@@ -1,0 +1,15 @@
+﻿ALEX MORGAN
+Python Developer
+Email: alex.morgan@example.com
+Location: Sample City, India
+
+Skills: Python, SQL, FastAPI, Git, PostgreSQL
+Experience: 2 years
+
+Junior Python Developer - SampleTech Solutions
+January 2024 - Present
+- Built internal REST APIs using FastAPI.
+- Improved a recurring data-processing job by reducing manual steps.
+
+Bachelor of Technology, Computer Engineering - Example Technical Institute, 2023
+Certifications: Python Programming Certificate
