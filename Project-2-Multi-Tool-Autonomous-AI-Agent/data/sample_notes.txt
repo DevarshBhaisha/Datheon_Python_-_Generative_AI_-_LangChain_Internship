@@ -1,0 +1,8 @@
+Example local note for testing the file reader.
+
+A small research team is comparing three approaches:
+1. Manual web research
+2. A tool-using AI agent
+3. A fixed sequence of scripts
+
+Evaluation criteria: factual accuracy, task completion, latency, and cost.
